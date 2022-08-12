@@ -1,4 +1,4 @@
-# C
+# C projects
 
 Using reposetory to store all the project coded using C.
 
